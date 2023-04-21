@@ -1,4 +1,4 @@
 # NET_PRACTICE
 <div>
-  <img src="https://www.techupdatesdaily.com/wp-content/uploads/2020/05/Definition-Of-TCP-IP-Protocol.jpg"/>
+  <img src="https://github.com/vveewwee/net_practice/blob/main/net_practice.png?raw=true"/>
 </div>
